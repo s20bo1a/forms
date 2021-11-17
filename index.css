@@ -1,0 +1,39 @@
+
+button{
+    border-radius: 100px;
+   background-color: blue;
+   color: white;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 25px;
+   padding-right: 25px;
+   }
+   form{
+      padding: block 30px; ; 
+   } 
+   center,.big{
+   display: inline;
+   font-size:60px ;
+   
+   }
+   b{
+       display:block;
+       
+   }
+   .check{
+       background-color: burlywood;
+       width: 265px; 
+       height: 100px;
+   }
+   fieldset{
+       background-color:darkgrey;
+    } 
+    
+        
+    div{
+        padding-left: 550px;
+        padding-right: 65%; 
+    } 
+    .hey{
+        color: darkgreen;
+    }
